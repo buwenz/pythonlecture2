@@ -13,7 +13,7 @@ x=100
 print(x*3)
 
 print('So cool Bither!')
-
+print
 print("sad")
 
 
